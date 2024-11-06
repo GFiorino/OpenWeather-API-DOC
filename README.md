@@ -19,7 +19,7 @@ This project aims to provide a comprehensive and beginner-friendly guide to usin
 - Use this guide to **integrate weather data** into your applications.
 
 ## Full Documentation
-[OpenWeather API Documentation](./README.md)
+[OpenWeather API Documentation](./Openweather-API-DOC.md)
 
 ## Contact
 If you have questions or feedback, feel free to reach out to me at gianpierofiorino@gmail.com.
